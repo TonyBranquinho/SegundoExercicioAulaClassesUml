@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\bin\Debug\net8.0\SegundoExercicioAulaClassesUml.exe
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\bin\Debug\net8.0\SegundoExercicioAulaClassesUml.deps.json
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\bin\Debug\net8.0\SegundoExercicioAulaClassesUml.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\bin\Debug\net8.0\SegundoExercicioAulaClassesUml.dll
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\bin\Debug\net8.0\SegundoExercicioAulaClassesUml.pdb
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.dll
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\refint\SegundoExercicioAulaClassesUml.dll
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.pdb
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\SegundoExercicioAulaClassesUml.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\SegundoExercicioAulaClassesUml\SegundoExercicioAulaClassesUml\obj\Debug\net8.0\ref\SegundoExercicioAulaClassesUml.dll
